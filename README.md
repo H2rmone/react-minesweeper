@@ -4,7 +4,7 @@
 
 ## About
   - 🕹️ A small simple minesweeper game.
-  - 🍔 Fell free to give some advice.
+  - 🍔 Feel free to give some advice.
   - 😂 The algorithms used in this project are very poor.
 
 ## Preview
